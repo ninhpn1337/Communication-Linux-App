@@ -21,3 +21,7 @@
   ./messenger với Messenger 
  
   App được chạy trên Debian và Kali Linux. App sử dụng tiếng Việt bình thường.
+  
+  # Tip: 
+  
+  Download vào thư mục chứa app trên hệ thống (/usr/share/ chẳng hạn) sau đó cài 1 ứng dụng chỉnh sửa được menu như Alacarte, và tạo shortcut cho App bình thường.
