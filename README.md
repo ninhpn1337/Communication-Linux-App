@@ -20,7 +20,7 @@
  
   ./messenger với Messenger 
  
-  App được chạy trên Debian và Kali Linux. App sử dụng tiếng Việt bình thường.
+  App được chạy thử nghiệm trên Debian và Kali Linux. App sử dụng tiếng Việt bình thường.
   
   # Tip: 
   
